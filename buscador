@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title> Pantallazo 
+    </title>
+</head>
+<style type="text/css">
+    table, th , td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: left;
+    }
+
+    th, td {
+        padding: 10px;
+    } 
+ table#tabla{
+     width: 100%;
+     background-color:#ffd000ea;
+ }
+ table#tablasola{
+     background-color: #ffd000ea;
+ }
+ table#boton{
+     background-color:#ffd000ea; 
+ }
+ table#principal{
+     background-color: #ffd000ea; 
+ }
+</style>
+<body>
+    <table id="principal" style= "width: 100%">
+        <tr> 
+            <th>BUSCADO POR: </th>
+            <td>LO QUE SE VA A BUSCAR: </td>
+             </tr>
+    </table> 
+   <br>
+   <br>
+  <br>  
+    <table id="tablasola" style="margin: 0 auto;">
+        <tr>
+            <th>
+            BUSQUEDA
+            </th>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <table id="tabla"> 
+        <tr>
+            <th>
+                Id.Ventas
+            </th>
+            <th>
+                Valor total
+            </th>
+            <th>
+                Cantidad de producto
+            </th>
+            <th>
+                Precio unitario
+            </th>
+            <th>
+                Fecha
+            </th>
+            <th>
+                Documento de identidad
+            </th>
+            <th>
+                Nombre vendedor
+            </th>
+            <th>
+                Nombre de usuario
+            </th>
+            <th>
+                Estado          
+               </th>
+            <th colspan="3">
+            </th>
+        </tr>
+        <tr>
+
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td> Editar </td> <td>Actualizar </td> <td>Eliminar</td>
+        </tr>
+    </table>
+    <table id="boton">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <tr>
+            <th>ATRÁS</th>
+        </tr>
+    </table>
+</body>
+<td></td>
+</html>
